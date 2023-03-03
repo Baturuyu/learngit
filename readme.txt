@@ -3,3 +3,4 @@ git 是一个可以免费使用的软，并且使用的人很多,用起来也方
 $ cd D:
 Git has a mutable index called stage.
 Git tracks changes.
+Git可以跟踪修改
