@@ -4,5 +4,4 @@ $ cd D:
 Git has a mutable index called stage.
 Git tracks changes.
 Git可以跟踪修改
-Creating a new branch is quick and simple.
-Creating a new branch is quick & simple.
+Creating a new branch is quick AND simple.
